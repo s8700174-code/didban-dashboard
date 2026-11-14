@@ -1,10 +1,10 @@
-# دیدبان · Didban
+# Didban — Executive Dashboard
 
 ### A clear view of business performance
 
 An interactive Persian / RTL executive dashboard with coordinated financial analytics, project tracking and downloadable reports. Built as an independent portfolio demonstration, with entirely synthetic companies, projects and financial data.
 
-[**Open live demo →**](https://s8700174-code.github.io/didban-dashboard/) · [فارسی](README.fa.md) · [Architecture](docs/ARCHITECTURE.md) · [Demo walkthrough](docs/DEMO.md)
+[**Open live demo →**](https://s8700174-code.github.io/didban-dashboard/) · [Persian translation](README.fa.md) · [Architecture](docs/ARCHITECTURE.md) · [Demo walkthrough](docs/DEMO.md)
 
 ![Didban executive dashboard](docs/dashboard-desktop.jpg)
 
